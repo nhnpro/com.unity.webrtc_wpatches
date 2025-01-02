@@ -16,8 +16,7 @@ namespace Unity.WebRTC
                 component = gameObject.AddComponent<T>();
             }
 
-                return component;
-            }
+            return component;
         }
     }
 
